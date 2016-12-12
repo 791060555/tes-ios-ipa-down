@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://mr8app.net/ipa/mrapp.ipa</string>
+					<string>https://791060555.github.io/test/apps/mr.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://mr8app.net/ipa/img57.png</string>
+					<string>https://791060555.github.io/test/apps/img57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://mr8app.net/ipa/img512.png</string>
+					<string>https://791060555.github.io/test/apps/img512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
